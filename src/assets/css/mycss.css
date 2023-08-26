@@ -1,0 +1,140 @@
+.router_link{
+    text-decoration: none!important;
+    color: black!important;
+    font-family: iransans!important;
+}
+
+
+.loading {
+    /*margin: 0;*/
+    /*position: fixed;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*z-index: 10;*/
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.swal2-popup {
+    font-size: 0.7rem !important;
+    /*display: flex!important;*/
+    /*align-items: center!important;*/
+    grid-template-rows: min-content;
+    padding: 10px!important;
+
+    /*color: #02DCCC !important;*/
+}
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input_check:checked {
+    background-image: url(../img/Group2472.svg);
+    background-position: center;
+    background-size: cover;
+    /* background-color: #02DCCC; */
+    /* margin: 2px; */
+}
+
+.input_check {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 0.5px solid #02DCCC;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 2px;
+}
+
+.whiteback {
+    display: none;
+    position: fixed;
+    z-index: 5;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    /*backdrop-filter: blur(2px); !* Chrome and Opera *!*/
+}
+
+.blackback {
+    display: none;
+    position: fixed;
+    z-index: 5;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    /*backdrop-filter: blur(3px); !* Chrome and Opera *!*/
+}
+
+.blackbackedit {
+    display: none;
+    position: fixed;
+    z-index: 11;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    backdrop-filter: blur(2px); /* Chrome and Opera */
+}
+
+.motto{
+    background-color: white;
+    color: #1b827b;
+    width: fit-content;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.vpd-icon-btn{
+    background-color: #02DCCC!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;
+}
+
+.vpd-header{
+    background-color: #02DCCC!important;
+    border-top-left-radius: 20px!important;
+    border-top-right-radius: 20px!important;
+}
+
+.vpd-day-effect{
+    background-color: #02DCCC!important;
+}
+
+.vpd-content{
+     border-radius: 20px!important;
+ }
+.vpd-main{
+    border-radius: 20px!important;
+}
+
+.form-control{
+    text-align: center;
+    font-size: 13px!important;
+;
+}
+
+.vpd-date {
+    font-size: 20px;
+}
+
+.vpd-actions button{
+    color: #02DCCC!important;
+}
+
+/*.vpd-selected{*/
+/*    color: #02DCCC!important;*/
+/*    background-color: white!important;*/
+/*}*/
+
+

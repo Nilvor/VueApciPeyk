@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.638" height="76.992" viewBox="0 0 87.638 76.992">
+  <g id="creditcard-plus" transform="translate(-2 -4)">
+    <path id="Path_2341" data-name="Path 2341" d="M28.146,15V28.146m0,13.146V28.146m0,0H15m13.146,0H41.291" transform="translate(43.965 37.201)" fill="none" stroke="#02dccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_2342" data-name="Path 2342" d="M15.146,4A13.146,13.146,0,0,0,2,17.146v4.382H89.638V17.146A13.146,13.146,0,0,0,76.492,4ZM2,60.965V30.291H89.638V45.751A26.291,26.291,0,0,0,47.313,74.11H15.146A13.146,13.146,0,0,1,2,60.965ZM19.528,43.437a4.382,4.382,0,0,1,4.382-4.382h21.91a4.382,4.382,0,1,1,0,8.764H23.91A4.382,4.382,0,0,1,19.528,43.437Z" transform="translate(0)" fill="#02dccc" fill-rule="evenodd"/>
+  </g>
+</svg>

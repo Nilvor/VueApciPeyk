@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224.5" height="192.5" viewBox="0 0 224.5 192.5">
+  <defs>
+    <filter id="Rectangle_608" x="37.5" y="37.5" width="187" height="155" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#c1d9d9"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="-1.862" y1="-2.16" x2="0.939" y2="0.857" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dee6e6"/>
+      <stop offset="1" stop-color="#eff7f7"/>
+    </linearGradient>
+    <filter id="Rectangle_1170" x="0" y="0" width="202" height="170" filterUnits="userSpaceOnUse">
+      <feOffset dx="-20" dy="-20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_649" data-name="Group 649" transform="translate(-171 -410)">
+    <g id="Group_648" data-name="Group 648" transform="translate(-2.838 440.639)">
+      <g transform="matrix(1, 0, 0, 1, 173.84, -30.64)" filter="url(#Rectangle_608)">
+        <rect id="Rectangle_608-2" data-name="Rectangle 608" width="112" height="80" rx="17" transform="translate(65 65)" fill="#f1f1f1"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 173.84, -30.64)" filter="url(#Rectangle_1170)">
+        <rect id="Rectangle_1170-2" data-name="Rectangle 1170" width="112" height="80" rx="17" transform="translate(65 65)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Path_2334" data-name="Path 2334" d="M-2654.889-8631s-11.778,39.078,0,77.5" transform="translate(2931 9107.251)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-width="3"/>
+    <path id="Path_2335" data-name="Path 2335" d="M-2660.123-8631s11.778,39.078,0,77.5" transform="translate(2968.012 9107.251)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_428" data-name="Line 428" x2="34.389" transform="translate(236.111 502.5)" fill="none" stroke="#b9b9b9" stroke-width="3"/>
+    <line id="Line_431" data-name="Line 431" x1="34.389" transform="translate(313.5 502.5)" fill="none" stroke="#b9b9b9" stroke-width="3"/>
+    <line id="Line_429" data-name="Line 429" x2="34.5" transform="translate(236 530.5)" fill="none" stroke="#b9b9b9" stroke-width="3"/>
+    <line id="Line_430" data-name="Line 430" x1="34.5" transform="translate(313.5 530.5)" fill="none" stroke="#b9b9b9" stroke-width="3"/>
+  </g>
+</svg>
